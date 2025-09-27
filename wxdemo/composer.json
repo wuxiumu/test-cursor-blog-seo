@@ -1,0 +1,6 @@
+{
+    "require": {
+        "w7corp/easywechat": "^6.18",
+        "monolog/monolog": "^3.9"
+    }
+}
